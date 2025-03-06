@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Rpa Challenge",
+  "Type": "App",
+  "Id": "e2WPr2i7oEmcEucmCcuCcQ",
+  "Reference": "yXARZFrp80SMqdT5Rgrcug/e2WPr2i7oEmcEucmCcuCcQ",
+  "Created": "2025-03-06T07:40:23.6743003Z",
+  "Updated": "2025-03-06T07:40:23.6743003Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
